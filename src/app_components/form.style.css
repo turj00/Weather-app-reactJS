@@ -1,0 +1,21 @@
+form {
+
+    margin-top: 3rem;
+
+
+}
+
+
+
+form input:focus{
+
+    background-color: transparent;
+    box-shadow: none !important;
+
+
+}
+
+form input::-webkit-input-placeholder{
+
+    color: black !important;
+}

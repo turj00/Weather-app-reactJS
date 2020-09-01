@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/Weather-app-reactJS/static/css/main.7ac4d74e.chunk.css",
-    "main.js": "/Weather-app-reactJS/static/js/main.ea452610.chunk.js",
-    "main.js.map": "/Weather-app-reactJS/static/js/main.ea452610.chunk.js.map",
+    "main.css": "/Weather-app-reactJS/static/css/main.48b75cfd.chunk.css",
+    "main.js": "/Weather-app-reactJS/static/js/main.72e77514.chunk.js",
+    "main.js.map": "/Weather-app-reactJS/static/js/main.72e77514.chunk.js.map",
     "runtime-main.js": "/Weather-app-reactJS/static/js/runtime-main.90a835a0.js",
     "runtime-main.js.map": "/Weather-app-reactJS/static/js/runtime-main.90a835a0.js.map",
     "static/css/2.0ecd484c.chunk.css": "/Weather-app-reactJS/static/css/2.0ecd484c.chunk.css",
     "static/js/2.d55887a3.chunk.js": "/Weather-app-reactJS/static/js/2.d55887a3.chunk.js",
     "static/js/2.d55887a3.chunk.js.map": "/Weather-app-reactJS/static/js/2.d55887a3.chunk.js.map",
     "index.html": "/Weather-app-reactJS/index.html",
-    "precache-manifest.80c9bccae6c2ddb76b130fd4a3554692.js": "/Weather-app-reactJS/precache-manifest.80c9bccae6c2ddb76b130fd4a3554692.js",
+    "precache-manifest.e4de5e8ddea7ce29b888c6f53bdfd9a0.js": "/Weather-app-reactJS/precache-manifest.e4de5e8ddea7ce29b888c6f53bdfd9a0.js",
     "service-worker.js": "/Weather-app-reactJS/service-worker.js",
     "static/css/2.0ecd484c.chunk.css.map": "/Weather-app-reactJS/static/css/2.0ecd484c.chunk.css.map",
-    "static/css/main.7ac4d74e.chunk.css.map": "/Weather-app-reactJS/static/css/main.7ac4d74e.chunk.css.map",
+    "static/css/main.48b75cfd.chunk.css.map": "/Weather-app-reactJS/static/css/main.48b75cfd.chunk.css.map",
     "static/js/2.d55887a3.chunk.js.LICENSE.txt": "/Weather-app-reactJS/static/js/2.d55887a3.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/Weather-app-reactJS/static/media/background2.356bfbfd.jpg",
+    "static/media/index.css": "/Weather-app-reactJS/static/media/background.7874ec48.jpg",
     "static/media/weather-icons.css": "/Weather-app-reactJS/static/media/weathericons-regular-webfont.ed0943f2.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.90a835a0.js",
     "static/css/2.0ecd484c.chunk.css",
     "static/js/2.d55887a3.chunk.js",
-    "static/css/main.7ac4d74e.chunk.css",
-    "static/js/main.ea452610.chunk.js"
+    "static/css/main.48b75cfd.chunk.css",
+    "static/js/main.72e77514.chunk.js"
   ]
 }
